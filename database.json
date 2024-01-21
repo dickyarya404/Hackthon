@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Hydrokeratin Curl Serum 150 ML",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Hair Care",
+    "price": 395000,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 2,
+    "name": "Root Volume Fixer 95 ML",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Hair Care",
+    "price": 395000,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 3,
+    "name": "Hydrokeratin Essence Mist 95 ML",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Hair Care",
+    "price": 395000,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 4,
+    "name": "Premium Hair Color",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Hair Color",
+    "price": 310000,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 5,
+    "name": "Self Up Hair Line Brush",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Hair Color",
+    "price": 310000,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 6,
+    "name": "World Volume Coating Tint 4.5 Ml",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Cosmetic",
+    "price": 260000,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "name": "Jewel Fit Highlighter Glossy Shine 10 ML",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Cosmetic",
+    "price": 529500,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  },
+  {
+    "id": 8,
+    "name": "Air Fit Artist Shadow 2 Gr",
+    "desciption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "category": "Cosmetic",
+    "price": 272800,
+    "stock": 20,
+    "sold": 0,
+    "image": ""
+  }
+]
